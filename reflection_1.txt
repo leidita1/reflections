@@ -1,0 +1,40 @@
+<h3>How could having easy access to the entire history of a file make you a more efficient programmer in the long term?</h3>
+<p>Because of that it would be a less time comsuption way of working. Everything would be always organized, it would be
+enterely easy to manipulate any document we want</p>
+
+<h3>What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having 
+versions automatically saved, like Google Docs does?</h3>
+<p>The pros are that you will always have the information of what bug or typo has been modified; when it has been
+modified; information about the comparation between the new and old version of the document;this talking about Git. An 
+automatically saved version would not give all this information and the programmador would not remember what changes that 
+have been done.In my opinion, there are not cons comparing Git vs an automatically saving, but it has to be in mind
+to keep commits always small and to do <i>one commit per logical change</1> so that, the information obteined will not
+be long and hard to understand.</p>
+
+<h3>Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, 
+like Google Docs, treat each file separately?</h3>
+<p>Because Git knows that multiple files might be correlated with each other, and that one single commit could affect these other files
+that belog or are correlated to the file where the commit has been done.
+Google docs propuse is only to save simple files or documents with not longer concern weather there are correlation in the changes
+of documents or files or not.</p>
+
+
+
+<h3>How can you use the commands git log and git diff to view the history of files?</h3>
+When you have download or cloned your repository, you can start making use of these commands. To start,  <b>git log</b> will show a list of
+the recent commits with information about them, including commit ID.
+Then we select two IDs -from git log info- to compare them with <b>git diff</b> to see the differences of those two commits; In other words, it shows when something 
+has been added or delated in one of the files -"green" tells about the new inserctions, and "red" about the deletions-
+
+
+
+<h3>How might using version control make you more confident to make changes that could break something?</h3>
+<p>When I use a version control i can have the certainity that everytime i make a mistake while programming, i can just go to my version
+control, look for the ID of the document or file where there is an error, and compare this file with another to see what has been changed,
+so that, it is very easy to identify what has been added or delated and make the corrections.</p>
+
+
+<h3>What happens when you initialize a repository? Why do you need to do it?</h3>
+<p>You are saving a file wich its contet will create commits or tracks with information anytime that they are modified.
+A repository is important if you have complex files that need to be observed carefully everytime a change its made.</p>
+

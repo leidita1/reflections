@@ -1,0 +1,28 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+ 
+
+
+
+ * What new skills have you learned?
+ 
+As I had a little idea of what programing is, this first step was a little bit ease, but i lerned about other codes that i did not
+use before, for example the styling for the letters or paragraphs.
+
+
+
+ * What has been easy?
+  * What has been difficult?
+  
+The basic concepts of programming have been ease, but for me was very difficult get to know the Udacity Platform.
+I had many troubles with Udacity Feedback too, not getting the codes that are required for some quizes.
+Also was challenging get to start programming with Sublime, because i did not know that you should make a little
+programming inside Sublime in order to open your codes in Chrome and i have been having troubles too opening
+some exercises without seeing results in Chrome.
+
+
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+Yes,i had to solve these problems with the recomended strategies, and also some other internal and external information
+
+
+
